@@ -53,6 +53,12 @@
                 "type": "",
                 "key": ""
             }
+                "votes": {
+	"https://cips.cardano.org/cips/cip23/": {
+		"vote": "Yes"
+	}
+}
+
         }
     }
 }
